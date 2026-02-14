@@ -9,7 +9,7 @@
 #include "images/enemy_RGB565_LE.h"
 #include "images/player_RGB565_LE.h"
 #include "images/background_RGB565_LE.h"
-#include "images/LcdFont_RGB565_LE.h"
+#include "images/lcdFont_RGB565_LE.h"
 #include "usbh_processor.h"
 #include "framebuffer.h"
 
